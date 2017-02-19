@@ -1,1 +1,1 @@
-# php-package-skeleton
+# everything is one thing
