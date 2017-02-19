@@ -1,18 +1,18 @@
 {
-  "name": "fsalehpour/php-package-skeleton",
-  "description": "A skeleton for writing php packages",
+  "name": "shayanadc/invoice-creator",
+  "description": "a package for create invoice",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {
-      "name": "Faramarz Salehpour",
-      "email": "subs@marz.co"
+      "name": "shayanadc",
+      "email": "shayanadc@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "FSalehpour\\PackageName\\": "src/"
+      "Shayanadc\\InvoiceCreator\\": "src/"
     }
   },
   "require": {
